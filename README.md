@@ -119,7 +119,7 @@ Climate-Adaptive-GA-Energy-Optimization/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Climate-Adaptive-GA-Energy-Optimization.git
+git clone https://github.com/ShramanDe/Climate-Adaptive-GA-Energy-Optimization.git
 cd Climate-Adaptive-GA-Energy-Optimization
 ```
 
